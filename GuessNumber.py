@@ -1,4 +1,4 @@
-print("**|Number Guessing Game|**")
+print("**||Number Guessing Game||**")
 print("Guess a number between 1 and 100") 
 import random
 number_to_guess = random.randint(1,100)
